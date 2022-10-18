@@ -1,0 +1,22 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch menu",
+            "request": "launch",
+            "mainClass": "com.hsy.game.menu",
+            "projectName": "app_2ceb9511"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "com.hsy.game.test",
+            "projectName": "app_2ceb9511"
+        }
+    ]
+}
